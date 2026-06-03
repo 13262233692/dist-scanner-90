@@ -1,0 +1,6 @@
+Distributed Port Scanner Results
+Generated: 2026-06-03T13:36:09+08:00
+Total open ports: 1
+
+IP	PORT	LATENCY(ms)	MODE
+127.0.0.1	135	0	tcp-connect
